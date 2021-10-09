@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Da4inci
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python and sql.
+- 🌱 I’m currently learning java, python and sql.
 - 💞️ I’m looking to collaborate on springboot.
 - 📫 How to reach me: If you know, you know...
 
